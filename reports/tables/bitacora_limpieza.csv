@@ -1,0 +1,6 @@
+paso,filas_antes,filas_despues,descartadas
+nulos en variables/identificadores,114000,114000,0
+tempo = 0 o duración = 0,114000,113842,158
+duplicados por track_id,113842,89583,24259
+duplicados por artista + nombre,89583,81198,8385
+TOTAL,114000,81198,32802
